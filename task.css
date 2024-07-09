@@ -1,0 +1,72 @@
+.whole{
+    border: 4px solid blue;
+    height: 50vh;
+    width: 40vw;
+    position: relative;
+    left: 5cm;
+}
+.cls1{
+    position: absolute;
+    border: 2px solid red;
+    padding: 5%;
+    top:0;
+    left: 0;
+
+}
+.cls2{
+    position: absolute;
+    border: 2px solid red;
+    padding: 5%;
+    right: 0;
+    top: 0;
+}
+.cls3{
+    position: absolute;
+    border: 2px solid red;
+    padding: 5%;
+    bottom: 0;
+    left: 0;
+}
+.cls4{
+    position: absolute;
+    border: 2px solid red;
+    padding: 5%;
+    bottom: 0;
+    right: 0;
+}
+.cls5{
+    position: absolute;
+    border: 2px solid green;
+    padding: 5%;
+    right: 45%;
+    border-radius: 6cm;
+    top: 0;
+}
+.cls6{
+    position: absolute;
+    border: 2px solid green;
+    padding: 5%;
+    top: 45%;
+    border-radius: 6em;
+}
+.cls7{
+    position: absolute;
+    border: 2px solid green;
+    top: 40%;
+    right: 0%;
+    border-radius: 6cm;
+    padding: 5%;
+}
+.cls8{
+    position: absolute;
+    border: 2px solid green;
+    padding: 5%;
+    bottom: 0%;
+    left: 45%;
+    border-radius: 6cm;
+
+}
+h3{
+    text-align: center;
+    margin-top: 30%;
+}
